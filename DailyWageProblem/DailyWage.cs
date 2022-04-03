@@ -8,7 +8,7 @@ namespace DailyWageProblem
 {
     internal class DailyWage
     {
-        public void isPresent()
+        public static void DailyWageSolution()
         {
             const int IS_FULL_TIME = 1;
             const int IS_PART_TIME = 2;

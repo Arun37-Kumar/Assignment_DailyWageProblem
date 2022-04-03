@@ -10,9 +10,7 @@ namespace DailyWageProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Daily Wage Computational Problem !");
-            DailyWage attendance = new DailyWage();
-            attendance.isPresent();
+            DailyWage.DailyWageSolution();
             Console.ReadLine();
         }
     }
