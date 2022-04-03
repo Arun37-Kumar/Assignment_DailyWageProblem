@@ -10,7 +10,7 @@ namespace DailyWageProblem
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Welcome to Daily Wage Computational Problem !");
         }
     }
 }
